@@ -30,7 +30,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "cldrjs": "^0.4.8",
+    "cldrjs": "^0.5.0",
     "globalize": "joshswan/globalize",
     "moment": "^2.19.3",
     "prop-types": "^15.5.10"
